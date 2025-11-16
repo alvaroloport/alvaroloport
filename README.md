@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola! 👋
+
+Mi nombre es Álvaro López, soy un estudiante de Desarrollo de Aplicaciones Multimedia y estoy aprendiendo a utlizar HTML, CSS y Github Pages, mi página web es https://alvaroloport.github.io/mi-portfolio
 
 <!--
 **alvaroloport/alvaroloport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
